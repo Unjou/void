@@ -46,7 +46,6 @@
 Ensure you have the Rust toolchain installed. Since this accesses raw network channels, you may need `root` or `admin` privileges.
 
 #### 2. Build the Project
-```bash
 cargo build --release
 
 3. Execution
@@ -65,6 +64,9 @@ sudo ./target/release/voidsniff
 | Dest IP | The target recipient address. |
 | Protocol | Identified protocol (TCP/UDP/OTHER) and target port. |
 | Length | Total size of the payload in bytes. |
+
+---
+
 ### ⚖️ License
 This project is dual-licensed under:
  * MIT License (LICENSE-MIT)
@@ -76,5 +78,4 @@ This project is dual-licensed under:
 <div align="center">
 **Developed by [norct](https://github.com/Unjou) 👾** 
 </div>
-
 
