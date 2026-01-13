@@ -1,0 +1,11 @@
+[package]
+name = "voidsniff"
+version = "0.1.0"
+edition = "2025"
+authors = "norct"
+
+[dependencies]
+# Packet parsing library (The standard for Rust networking)
+pnet = "0.29.0"
+# Colors for terminal output
+colored = "2.0.0"
