@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 VoidSniff
+# voidsniff 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=BD93F9&center=true&vCenter=true&width=500&lines=Custom+Packet+Sniffer+v1.0;Network+Forensics+Tool;Powered+by+Rust+2025" alt="Typing SVG" />
 
@@ -75,7 +75,8 @@ This project is dual-licensed under:
 > [!CAUTION]
 > VoidSniff is intended for authorized network auditing and forensics only. Sniffing traffic on networks where you do not have explicit permission is illegal. Use with caution.
 > 
+
 <div align="center">
-**Developed by [norct](https://github.com/Unjou) 👾** 
+Developed by [norct](https://github.com/Unjou) 👾
 </div>
 
