@@ -2,7 +2,7 @@
 
 # voidsniff 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=BD93F9&center=true&vCenter=true&width=500&lines=Custom+Packet+Sniffer+v1.0;Network+Forensics+Tool;Powered+by+Rust+2025" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=BD93F9&center=true&vCenter=true&width=500&lines=Custom+Packet+Sniffer+v1.0;Network+Forensics+Tool;Powered+by+Rust" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.1.0-BD93F9?style=for-the-badge" />
@@ -71,12 +71,18 @@ sudo ./target/release/voidsniff
 This project is dual-licensed under:
  * MIT License (LICENSE-MIT)
  * Apache License, Version 2.0 (LICENSE-APACHE)
+
+---
+
 ### ⚠️ Disclaimer
 > [!CAUTION]
 > VoidSniff is intended for authorized network auditing and forensics only. Sniffing traffic on networks where you do not have explicit permission is illegal. Use with caution.
-> 
+>
+
+---
 
 <div align="center">
-Developed by [norct](https://github.com/Unjou) 👾
-</div>
 
+**Developed by [norct](https://github.com/Unjou) 👾** 
+
+</div>
